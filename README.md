@@ -72,3 +72,5 @@ I'm Thiago Ramos Bernardo, I am 19 years old.
   <img src="assets/social/instagram.svg" width="5%" /> &nbsp;
   </a>
 </p>
+
+<h6>Inspired by <a href="https://github.com/PauloPHLP">PauloPHLP</a> </h6>
