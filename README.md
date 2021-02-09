@@ -4,13 +4,13 @@
 I'm Thiago Ramos Bernardo, I am 19 years old.
 </p>
 <p align=center>
-:fire: I do ***Computer Engineering*** at UTFPR Curitiba;
+:fire: I do <b>Computer Engineering</b> at UTFPR Curitiba;
 </p>
 <p align=center>
-:clap: Graduated in ***Mechatronics Technicien*** at IFSP Registro;
+:clap: Graduated in <b>Mechatronics Technicien</b> at IFSP Registro;
 </p>
 <p align=center>
-:sunglasses: Working as Junior Software Develor at [Dextra](https://dextra.com.br/pt/);
+:sunglasses: Working as Junior Software Develor at <b><a href="https://dextra.com.br/">Dextra</a></b>
 </p>
 
 <h3 align="center">
