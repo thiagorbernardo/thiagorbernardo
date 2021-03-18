@@ -20,7 +20,7 @@ I'm Thiago Ramos Bernardo, I am 19 years old.
 <div align="center">
   <img width="47.7%" src="https://github-readme-stats.vercel.app/api?username=thiagorbernardo&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorbernardo&theme=tokyonight&layout=compact&hide=c%2B%2B,Propeller%20Spin&langs_count=5" />
+  <!--<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorbernardo&theme=tokyonight&layout=compact&hide=c%2B%2B,Propeller%20Spin&langs_count=5" />-->
 </div>
 
 <h3 align="center">
