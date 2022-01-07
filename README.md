@@ -10,7 +10,7 @@ I'm Thiago Ramos Bernardo, I am 19 years old.
 :clap: Graduated in <b>Mechatronics Technicien</b> at IFSP Registro;
 </p>
 <p align=center>
-:sunglasses: Working as Junior Software Develor at <b><a href="https://dextra.com.br/">Dextra</a></b>
+:sunglasses: Working as Mid-Level Software Developer at <b><a href="https://dextra.com.br/">Dextra</a></b>
 </p>
 
 <h3 align="center">
