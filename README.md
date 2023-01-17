@@ -10,7 +10,7 @@ I'm Thiago Ramos Bernardo, I am 20 years old.
 :clap: Graduated in <b>Mechatronics Technicien</b> at IFSP Registro;
 </p>
 <p align=center>
-:sunglasses: Working as Mid-Level Software Developer at <b><a href="https://ciandt.com/us/en-us">CI&T</a></b>
+:sunglasses: Working as Senior Software Developer at <b><a href="https://ciandt.com/us/en-us">CI&T</a></b>
 </p>
 
 <h3 align="center">
