@@ -1,7 +1,7 @@
 ## <center> Who Am I :question: </center>
 
 <p align=center>
-I'm Thiago Ramos Bernardo, I am 20 years old.
+I'm Thiago Ramos Bernardo, I am 21 years old.
 </p>
 <p align=center>
 :fire: I do <b>Computer Engineering</b> at UTFPR Curitiba;
