@@ -62,7 +62,7 @@ I'm Thiago Ramos Bernardo, I am 21 years old.
 
 <p align=center>
   <a
-    href="https://www.linkedin.com/in/paulo-lima-1218a9149/" 
+    href="https://www.linkedin.com/in/thiagorbernardo/" 
   >
     <img src="assets/social/linkedin.svg" width="5%" /> &nbsp;
   </a>
