@@ -1,0 +1,24 @@
+alias kcron='kubectl get cronjobs -n vivomoney'
+alias kuse='kubectl get hpa -n vivomoney'
+alias klog='f() { kubectl -n vivomoney logs -f deploy/vivo-money-$1 };f'
+alias kres='f() { kubectl rollout restart deployment $1 -n vivomoney };f'
+alias kpod='f() {
+  if [[ $# -eq 0 ]]; then
+    kubectl get pods -n vivomoney
+  else
+    kubectl get pods -n vivomoney | grep $1
+  fi
+};f'
+alias kexec='f() {
+  SHELL="bash"
+  if ! [[ -z "$2" ]]; then
+    SHELL=$2
+  fi
+  kubectl exec -it -n vivomoney $1 -- /bin/$SHELL
+};f'
+
+alias grpo="git remote prune origin"
+alias gpf="git push -f --no-verify"
+alias gfe="git fetch --prune origin"
+
+alias killport='f() { kill -9 $(lsof -t -i:$1) };f'
