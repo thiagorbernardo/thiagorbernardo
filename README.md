@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago Ramos Bernardo</h1>
 <h3 align="center">An awesome software developer from Brazil</h3>
 
-- 🔭 I’m currently working on [CI&T Software S/A](https://ciandt.com/)
+- 🔭 I’m currently working on [iFood](https://www.linkedin.com/company/ifood-/)
 
 - 👯 I’m looking to collaborate on **NodeJS and Flutter**
 
