@@ -1,259 +1,145 @@
 cv:
-  name: John Doe
-  location: Location
-  email: john.doe@example.com
-  phone: +1-609-999-9995
-  website:
+  name: Thiago Ramos Bernardo
+  location: Curitiba, Brazil
+  email: thiago.ramos.bernardo@gmail.com
+  phone: "+55 (41) 98807-4237"
+  website: https://armazenai.app.br/
   social_networks:
     - network: LinkedIn
-      username: john.doe
+      username: thiagorbernardo
     - network: GitHub
-      username: john.doe
+      username: thiagorbernardo
   sections:
-    welcome_to_RenderCV!:
-      - '[RenderCV](https://rendercv.com) is a Typst-based CV framework designed for academics and engineers, with Markdown syntax support.'
-      - Each section title is arbitrary. Each section contains a list of entries, and there are 7 different entry types to choose from.
+    summary:
+      - Full-Stack Software Engineer with expertise in TypeScript, Flutter and Go. Experienced in building scalable platforms, high-traffic APIs, and internal tools. Seeking to leverage background in distributed systems and data automation to improve developer experience.
     education:
-      - institution: Stanford University
-        area: Computer Science
-        degree: PhD
-        grade:
-        date:
-        start_date: 2023-09
-        end_date: present
-        location: Stanford, CA, USA
-        summary:
+      - institution: Faculdade Full Cycle de Tecnologia - FCTech
+        area: Advanced Go Development (Go Expert)
+        degree: Postgraduate Lato Sensu
+        start_date: 2025-02
+        end_date: 2025-08
+        location: Brazil
         highlights:
-          - Working on the optimization of autonomous vehicles in urban environments
-      - institution: Boğaziçi University
+          - "Core topics: Go internals; concurrency/multithreading; APIs: gRPC, GraphQL; clean architecture; databases; Docker; Kubernetes"
+      - institution: Universidade Tecnológica Federal do Paraná - UTFPR
         area: Computer Engineering
-        degree: BS
-        grade:
-        date:
-        start_date: 2018-09
-        end_date: 2022-06
-        location: Istanbul, Türkiye
-        summary:
+        degree: Bachelor
+        start_date: 2019
+        end_date: 2024
+        location: Paraná, Brazil
         highlights:
-          - 'GPA: 3.9/4.0, ranked 1st out of 100 students'
-          - 'Awards: Best Senior Project, High Honor'
-    experience:
-      - company: Company C
-        position: Summer Intern
-        date:
-        start_date: 2024-06
-        end_date: 2024-09
-        location: Livingston, LA, USA
-        summary:
-        highlights:
-          - Developed deep learning models for the detection of gravitational waves in LIGO data
-          - Published [3 peer-reviewed research papers](https://example.com) about the project and results
-      - company: Company B
-        position: Summer Intern
-        date:
-        start_date: 2023-06
-        end_date: 2023-09
-        location: Ankara, Türkiye
-        summary:
-        highlights:
-          - Optimized the production line by 15% by implementing a new scheduling algorithm
-      - company: Company A
-        position: Summer Intern
-        date:
-        start_date: 2022-06
-        end_date: 2022-09
-        location: Istanbul, Türkiye
-        summary:
-        highlights:
-          - Designed an inventory management web application for a warehouse
-    projects:
-      - name: '[Example Project](https://example.com)'
-        date:
-        start_date: 2024-05
-        end_date: present
-        location:
-        summary: A web application for writing essays
-        highlights:
-          - Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users
-          - The app is made open-source (3,000+ stars [on GitHub](https://github.com))
-      - name: '[Teaching on Udemy](https://example.com)'
-        date: Fall 2023
-        start_date:
-        end_date:
-        location:
-        summary:
-        highlights:
-          - Instructed the "Statistics" course on Udemy (60,000+ students, 200,000+ hours watched)
+          - "Relevant coursework: AWS Foundations; Image Processing; Backend Development"
+      - institution: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP
+        area: Mechatronics
+        degree: Technician
+        start_date: 2016
+        end_date: 2018
+        location: São Paulo, Brazil
     skills:
-      - label: Programming
-        details: Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps
-      - label: Mathematics
-        details: Good understanding of differential equations, calculus, and linear algebra
+      - label: Backend
+        details: Go (Golang), Node.js (Express, NestJS), Python, REST APIs, gRPC, GraphQL, Clean Architecture, Microservices
+      - label: Cloud/DevOps
+        details: Microsoft Azure, Docker, Kubernetes (K8s), CI/CD Pipelines, Observability (OpenTelemetry), Sentry, Infrastructure as Code
+      - label: Mobile
+        details: Flutter (Dart), iOS & Android Development, Mobile CI/CD, App Store & Play Store Publishing
+      - label: Frontend
+        details: React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Responsive Web Design
+      - label: Databases
+        details: PostgreSQL, MongoDB, Redis, Data Migration, PySpark, Scala
+      - label: Soft Skills
+        details: Technical Leadership, Client Communication, Cross-functional Collaboration, Agile/Scrum
       - label: Languages
-        details: 'English (fluent, TOEFL: 118/120), Turkish (native)'
-    publications:
-      - title: 3D Finite Element Analysis of No-Insulation Coils
-        authors:
-          - Frodo Baggins
-          - '***John Doe***'
-          - Samwise Gamgee
-        doi: 10.1109/TASC.2023.3340648
-        url:
-        journal:
-        date: 2004-01
-    extracurricular_activities:
-      - bullet: 'There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.'
-      - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
-    numbered_entries:
-      - number: This is a numbered entry.
-      - number: This is another numbered entry.
-      - number: This is the third numbered entry.
-    reversed_numbered_entries:
-      - reversed_number: This is a reversed numbered entry.
-      - reversed_number: This is another reversed numbered entry.
-      - reversed_number: This is the third reversed numbered entry.
-  sort_entries: none
+        details: Portuguese (Native), English (C2 - Fluent), French (A2 - Basic)
+    experience:
+      - company: iFood
+        position: Software Engineer (Mobile & Backend)
+        start_date: 2024-06
+        end_date: present
+        location: São Paulo, SP, Brazil
+        highlights:
+          - Built mobile banking features in Flutter and Go services, reducing app startup/navigation latency by ~10%.
+          - Delivered AI-powered UX enhancements, utilizing Python for data analysis and A/B test validation to verify increased feature engagement and session depth.
+          - Established observability with tracing/logging, shortening incident detection and triage time.
+      - company: CI&T Software S/A
+        position: Senior Fullstack Developer (Backend & Mobile)
+        start_date: 2022-11
+        end_date: 2024-06
+        location: Campinas, SP, Brazil
+        highlights:
+          - Led backend architecture for Vivo Money, designing custom Typescript and Python automation scripts to validate data integrity during the migration of 500k+ users, resulting in zero critical data loss.
+          - Point of contact for Flutter team (DM Card), raising app store rating from 3.6 to 4.7 via performance and UX improvements.
+          - Improved API reliability and performance across NodeJS/Typescript services.
+          - Built responsive web dashboards using React and TypeScript, integrating with Node.js backend services to visualize real-time transaction data.
+      - company: CI&T Software S/A
+        position: Mid-Level Software Developer (Backend)
+        start_date: 2021-08
+        end_date: 2022-11
+        location: Campinas, SP, Brazil
+        highlights:
+          - Delivered high-traffic APIs with robust validation, security, and scalability (OAuth, OWASP).
+          - Supported cross-squad initiatives by building internal tools with Python and Node.js to unblock releases and monitor system health.
+      - company: Dextra
+        position: Junior Software Developer
+        start_date: 2021-02
+        end_date: 2021-08
+        location: Campinas, SP, Brazil
+        highlights:
+          - Built and maintained NodeJS services; contributed to data pipelines (PySpark/Scala).
+      - company: Dextra
+        position: Software Developer Intern
+        start_date: 2020-01
+        end_date: 2021-01
+        location: Campinas, SP, Brazil
+        highlights:
+          - Developed an AR app (Sky) and voice apps (Alexa/Google Actions) for Claro.
+          - Contributed across cloud stacks (Azure, Google Cloud, Vercel) and data (Redis, MongoDB).
+    projects:
+      - name: "[Armazenaí](https://armazenai.app.br/)"
+        location: Founder
+        highlights:
+          - Mobile app for the Brazilian market providing pantry inventory tracking, expiration alerts, and smart shopping list features. Built with Flutter for mobile and NestJS backend on cloud infrastructure.
+          - "Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.ramosbernardo.pantry_trackr) and [Apple App Store](https://apps.apple.com/br/app/armazena%C3%AD/id6451331899)"
+    key_achievements:
+      - name: Vivo Money
+        location: Backend Developer (1 year)
+        highlights:
+          - Migrated 500k+ users with zero critical data loss; led backend architecture with client stakeholders.
+      - name: DM Card
+        location: Flutter Developer (6 months)
+        highlights:
+          - Led 3 developers; improved app rating from 3.6 to 4.7 via performance and UX optimizations.
+      - name: Banco Pan
+        location: Flutter Developer (6 months)
+        highlights:
+          - Delivered financing features in client-native stacks; improved release cadence and collaboration.
 design:
-  theme: engineeringresumes
+  theme: sb2nov
   page:
     size: us-letter
-    top_margin: 2cm
-    bottom_margin: 2cm
-    left_margin: 2cm
-    right_margin: 2cm
-    show_page_numbering: false
-    show_last_updated_date: true
+    top_margin: 1.5cm
+    bottom_margin: 1.5cm
+    left_margin: 1.5cm
+    right_margin: 1.5cm
   colors:
-    text: rgb(0, 0, 0)
     name: rgb(0, 0, 0)
     connections: rgb(0, 0, 0)
     section_titles: rgb(0, 0, 0)
     links: rgb(0, 0, 0)
-    last_updated_date_and_page_numbering: rgb(128, 128, 128)
-  text:
-    font_family: XCharter
-    font_size: 10pt
-    leading: 0.6em
-    alignment: justified
-    date_and_location_column_alignment: right
   links:
-    underline: true
-    use_external_link_icon: false
+    underline: false
   header:
-    name_font_family: XCharter
-    name_font_size: 25pt
-    name_bold: false
-    small_caps_for_name: false
-    photo_width: 3.5cm
-    vertical_space_between_name_and_connections: 0.7cm
-    vertical_space_between_connections_and_first_section: 0.7cm
-    horizontal_space_between_connections: 0.5cm
-    connections_font_family: XCharter
-    separator_between_connections: '|'
-    use_icons_for_connections: false
-    use_urls_as_placeholders_for_connections: true
-    make_connections_links: true
     alignment: center
   section_titles:
-    type: with-full-line
-    font_family: XCharter
-    font_size: 1.2em
-    bold: true
-    small_caps: false
-    line_thickness: 0.5pt
-    vertical_space_above: 0.55cm
-    vertical_space_below: 0.3cm
+    type: with_full_line
   entries:
-    date_and_location_width: 4.15cm
-    left_and_right_margin: 0cm
-    horizontal_space_between_columns: 0.1cm
-    vertical_space_between_entries: 0.4cm
-    allow_page_break_in_sections: true
-    allow_page_break_in_entries: true
-    short_second_row: false
-    show_time_spans_in: []
-  highlights:
-    bullet: •
-    nested_bullet: '-'
-    top_margin: 0.25cm
-    left_margin: 0cm
-    vertical_space_between_highlights: 0.19cm
-    horizontal_space_between_bullet_and_highlight: 0.3em
-    summary_left_margin: 0cm
-  entry_types:
-    one_line_entry:
-      template: '**LABEL:** DETAILS'
-    education_entry:
-      main_column_first_row_template: '**INSTITUTION**, DEGREE in AREA -- LOCATION'
-      degree_column_template:
-      degree_column_width: 1cm
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
-      date_and_location_column_template: DATE
-    normal_entry:
-      main_column_first_row_template: '**NAME** -- **LOCATION**'
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
-      date_and_location_column_template: DATE
-    experience_entry:
-      main_column_first_row_template: '**POSITION**, COMPANY -- LOCATION'
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
-      date_and_location_column_template: DATE
-    publication_entry:
-      main_column_first_row_template: '**TITLE**'
-      main_column_second_row_template: |-
-        AUTHORS
-        URL (JOURNAL)
-      main_column_second_row_without_journal_template: |-
-        AUTHORS
-        URL
-      main_column_second_row_without_url_template: |-
-        AUTHORS
-        JOURNAL
-      date_and_location_column_template: DATE
+    date_and_location_width: 4.5cm
 locale:
-  language: en
-  phone_number_format: national
-  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-  last_updated_date_template: Last updated in TODAY
-  date_template: MONTH_ABBREVIATION YEAR
+  language: english
   month: month
   months: months
   year: year
   years: years
   present: present
-  to: –
-  abbreviations_for_months:
-    - Jan
-    - Feb
-    - Mar
-    - Apr
-    - May
-    - June
-    - July
-    - Aug
-    - Sept
-    - Oct
-    - Nov
-    - Dec
-  full_names_of_months:
-    - January
-    - February
-    - March
-    - April
-    - May
-    - June
-    - July
-    - August
-    - September
-    - October
-    - November
-    - December
 rendercv_settings:
-  date: '2025-10-28'
+  date: "2025-12-23"
   bold_keywords: []
-  sort_entries: none
