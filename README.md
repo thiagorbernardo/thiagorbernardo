@@ -1,59 +1,37 @@
-<h1 align="center">Hi 👋, I'm Thiago Ramos Bernardo</h1>
-<h3 align="center">An awesome software developer from Brazil</h3>
+# Thiago Ramos Bernardo
 
-- 🔭 I’m currently working on [iFood](https://www.linkedin.com/company/ifood-/)
+**Full-Stack Software Engineer — TypeScript, Flutter, Go**
 
-- 👯 I’m looking to collaborate on **NodeJS and Flutter**
+[LinkedIn](https://linkedin.com/in/thiagorbernardo) · [Email](mailto:thiago.ramos.bernardo@gmail.com) · [Website](https://armazenai.app.br/) · [CV (PDF)](./cv/rendercv_output/Thiago_Ramos_Bernardo_CV.pdf) · [CV source (YAML)](./cv/Thiago_Ramos_CV.yaml)
 
-- 👨‍💻 All of my projects are available at [https://github.com/thiagorbernardo](https://github.com/thiagorbernardo)
+---
 
-- 📄 Know about my experiences [https://github.com/thiagorbernardo/thiagorbernardo/blob/master/Resume_Thiago_Ramos_Bernardo.pdf](https://github.com/thiagorbernardo/thiagorbernardo/blob/master/Resume_Thiago_Ramos_Bernardo.pdf)
+## About
 
-- 💬 Ask me about **NodeJS, Flutter, Python, Typescript, Javascript, Raspberry Pi, Alexa**
+Full-Stack Software Engineer with expertise in TypeScript, Flutter, and Go. I build scalable platforms, high-traffic APIs, and internal tools. Focused on distributed systems and data automation to improve developer experience.
 
-- 📫 How to reach me **https://www.linkedin.com/in/thiagorbernardo/**
+Based in **Curitiba, Brazil**. Currently at [iFood](https://www.linkedin.com/company/ifood-/).
 
-- ⚡ Fun fact **I REALLY LOVE STAR WARS**
+## Highlights
 
-<br/>
+- **iFood** — Flutter and Go for mobile banking; ~10% latency reduction; observability and tracing for faster incident detection.
+- **Vivo Money (CI&T)** — Led backend for 500k+ user migration, zero critical data loss; TypeScript and Python automation.
+- **DM Card (CI&T)** — Flutter tech lead; raised app store rating from 3.6 to 4.7 via performance and UX improvements.
+- **CI&T** — High-traffic APIs (OAuth, OWASP); Python/Node.js internal tools; React/TypeScript dashboards.
+- **Dextra** — Node.js services; data pipelines (PySpark/Scala); AR app and voice apps (Alexa/Google Actions) for Claro.
 
-<h2 align="left">
-  GitHub Stats
-</h2>
+## Featured project
 
-<div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagorbernardo&show_icons=true&theme=dracula&locale=en" alt="thiagorbernardo" />
-  &nbsp;
-</div>
+**[Armazenaí](https://armazenai.app.br/)** — Mobile app for the Brazilian market: pantry inventory, expiration alerts, smart shopping list. Flutter + NestJS. [Google Play](https://play.google.com/store/apps/details?id=com.ramosbernardo.pantry_trackr) · [App Store](https://apps.apple.com/br/app/armazena%C3%AD/id6451331899)
 
-<br/>
+## Tech stack
 
-<h2 align="left">
-  Connect with me
-</h2>
+| Backend | Mobile | Cloud / DevOps | Data |
+|---------|--------|----------------|------|
+| Go, Node.js (Express, NestJS), Python, gRPC, GraphQL | Flutter (Dart), iOS & Android | Azure, Docker, Kubernetes, CI/CD, OpenTelemetry, Sentry | PostgreSQL, MongoDB, Redis, PySpark |
 
-<p align="left">
-<a href="https://linkedin.com/in/thiagorbernardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagorbernardo" height="30" width="40" /></a>
-<a href="https://instagram.com/thiagorbernardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiagorbernardo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc8lynj86tsqqnlylh3nqzqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8lynj86tsqqnlylh3nqzqq" height="30" width="40" /></a>
-</p>
+**Frontend:** React, TypeScript, JavaScript, HTML5, CSS3
 
-<br/>
+---
 
-<h2 align="left">
-  Languages and Tools:
-</h2>
-
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<br/>
-
-<h2 align="left">
-  GitHub Badges
-</h2>
-
-<p align="left">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=thiagorbernardo" alt="thiagorbernardo" />
-</p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagorbernardo&" alt="thiagorbernardo" />
-
+*Ask me about Node.js, Flutter, Go, or Raspberry Pi. I really love Star Wars.*
