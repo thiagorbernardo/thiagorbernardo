@@ -40,6 +40,23 @@ Full-Stack Software Engineer with expertise in TypeScript, Flutter and Go. Exper
 
 
 
+# Certifications
+## **LangGraph - Develop LLM powered AI agents with LangGraph**
+
+*Udemy*
+
+*Mar 2024*
+
+
+
+## **LangChain - Develop LLM powered applications with LangChain**
+
+*Udemy*
+
+*Mar 2024*
+
+
+
 # Skills
 **Backend:** Go (Golang), Node.js (Express, NestJS), Python, REST APIs, gRPC, GraphQL, Clean Architecture, Microservices
 

@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Thiago Ramos Bernardo",
   footer: context { [#emph[Thiago Ramos Bernardo -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Dec 2025] ],
+  top-note: [ #emph[Last updated in Feb 2026] ],
   locale-catalog-language: "en",
   page-size: "us-letter",
   page-top-margin: 1.5cm,
@@ -76,9 +76,9 @@
   entries-highlights-space-between-items: 0cm,
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
-    year: 2025,
-    month: 12,
-    day: 23,
+    year: 2026,
+    month: 2,
+    day: 9,
   ),
 )
 
@@ -150,6 +150,38 @@ Full-Stack Software Engineer with expertise in TypeScript, Flutter and Go. Exper
     #emph[São Paulo, Brazil]
 
     #emph[2016 – 2018]
+
+  ],
+  main-column-second-row: [
+  ],
+)
+
+== Certifications
+
+#regular-entry(
+  [
+    #strong[LangGraph - Develop LLM powered AI agents with LangGraph]
+
+  ],
+  [
+    #emph[Udemy]
+
+    #emph[Mar 2024]
+
+  ],
+  main-column-second-row: [
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[LangChain - Develop LLM powered applications with LangChain]
+
+  ],
+  [
+    #emph[Udemy]
+
+    #emph[Mar 2024]
 
   ],
   main-column-second-row: [

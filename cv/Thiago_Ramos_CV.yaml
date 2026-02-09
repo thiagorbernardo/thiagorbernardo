@@ -93,6 +93,13 @@ cv:
         highlights:
           - Developed an AR app (Sky) and voice apps (Alexa/Google Actions) for Claro.
           - Contributed across cloud stacks (Azure, Google Cloud, Vercel) and data (Redis, MongoDB).
+    certifications:
+      - name: "LangGraph - Develop LLM powered AI agents with LangGraph"
+        location: Udemy
+        date: 2024-03
+      - name: "LangChain - Develop LLM powered applications with LangChain"
+        location: Udemy
+        date: 2024-03
     projects:
       - name: "[Armazenaí](https://armazenai.app.br/)"
         location: Founder
