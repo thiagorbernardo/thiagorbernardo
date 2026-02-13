@@ -52,14 +52,16 @@ cv:
         details: Portuguese (Native), English (C2 - Fluent), French (A2 - Basic)
     experience:
       - company: iFood
-        position: Software Engineer (Mobile & Backend)
+        position: Software Engineer (Backend & Mobile) — iFood Pago
         start_date: 2024-06
         end_date: present
         location: São Paulo, SP, Brazil
         highlights:
-          - Built mobile banking features in Flutter and Go services, reducing app startup/navigation latency by ~10%.
-          - Delivered AI-powered UX enhancements, utilizing Python for data analysis and A/B test validation to verify increased feature engagement and session depth.
-          - Established observability with tracing/logging, shortening incident detection and triage time.
+          - Core development for payment and credit products (Pix transfers, Compre e Pague Depois) impacting millions of users; Flutter and Go services.
+          - Reduced app startup and navigation latency by ~10% through mobile banking features in Flutter and Go.
+          - Integrated FaceTec in Flutter for biometric authentication and security; multiplatform and microservices architecture.
+          - Built AI agents for team automation and app review analysis.
+          - Mentor interns and collaborate with multidisciplinary teams across Flutter, Go, React, and native mobile (Kotlin/Java, Swift).
       - company: CI&T Software S/A
         position: Senior Fullstack Developer (Backend & Mobile)
         start_date: 2022-11

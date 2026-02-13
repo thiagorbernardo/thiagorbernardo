@@ -78,7 +78,7 @@
   date: datetime(
     year: 2026,
     month: 2,
-    day: 9,
+    day: 13,
   ),
 )
 
@@ -156,38 +156,6 @@ Full-Stack Software Engineer with expertise in TypeScript, Flutter and Go. Exper
   ],
 )
 
-== Certifications
-
-#regular-entry(
-  [
-    #strong[LangGraph - Develop LLM powered AI agents with LangGraph]
-
-  ],
-  [
-    #emph[Udemy]
-
-    #emph[Mar 2024]
-
-  ],
-  main-column-second-row: [
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[LangChain - Develop LLM powered applications with LangChain]
-
-  ],
-  [
-    #emph[Udemy]
-
-    #emph[Mar 2024]
-
-  ],
-  main-column-second-row: [
-  ],
-)
-
 == Skills
 
 #strong[Backend:] Go (Golang), Node.js (Express, NestJS), Python, REST APIs, gRPC, GraphQL, Clean Architecture, Microservices
@@ -208,7 +176,7 @@ Full-Stack Software Engineer with expertise in TypeScript, Flutter and Go. Exper
 
 #regular-entry(
   [
-    #strong[Software Engineer (Mobile & Backend)]
+    #strong[Software Engineer (Backend & Mobile) — iFood Pago]
 
     #emph[iFood]
 
@@ -220,11 +188,15 @@ Full-Stack Software Engineer with expertise in TypeScript, Flutter and Go. Exper
 
   ],
   main-column-second-row: [
-    - Built mobile banking features in Flutter and Go services, reducing app startup\/navigation latency by \~10\%.
+    - Core development for payment and credit products (Pix transfers, Compre e Pague Depois) impacting millions of users; Flutter and Go services.
 
-    - Delivered AI-powered UX enhancements, utilizing Python for data analysis and A\/B test validation to verify increased feature engagement and session depth.
+    - Reduced app startup and navigation latency by \~10\% through mobile banking features in Flutter and Go.
 
-    - Established observability with tracing\/logging, shortening incident detection and triage time.
+    - Integrated FaceTec in Flutter for biometric authentication and security; multiplatform and microservices architecture.
+
+    - Built AI agents for team automation and app review analysis.
+
+    - Mentor interns and collaborate with multidisciplinary teams across Flutter, Go, React, and native mobile (Kotlin\/Java, Swift).
 
   ],
 )
@@ -312,6 +284,38 @@ Full-Stack Software Engineer with expertise in TypeScript, Flutter and Go. Exper
 
     - Contributed across cloud stacks (Azure, Google Cloud, Vercel) and data (Redis, MongoDB).
 
+  ],
+)
+
+== Certifications
+
+#regular-entry(
+  [
+    #strong[LangGraph - Develop LLM powered AI agents with LangGraph]
+
+  ],
+  [
+    #emph[Udemy]
+
+    #emph[Mar 2024]
+
+  ],
+  main-column-second-row: [
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[LangChain - Develop LLM powered applications with LangChain]
+
+  ],
+  [
+    #emph[Udemy]
+
+    #emph[Mar 2024]
+
+  ],
+  main-column-second-row: [
   ],
 )
 
